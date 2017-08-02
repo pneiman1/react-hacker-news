@@ -63,7 +63,7 @@ span.control:hover {
   font-family: Verdana, Geneva, sans-serif;
 }
 .App__header {
-  color: #00d8ff;
+  color: #800000;
   background-color: #222;
   padding: 6px;
   line-height: 18px;
@@ -96,7 +96,7 @@ span.control:hover {
   margin-bottom: 0;
 }
 .App__header img {
-  border: 1px solid #00d8ff;
+  border: 1px solid #800000;
   margin-right: .25em;
 }
 .App__header a {
@@ -109,7 +109,7 @@ span.control:hover {
 .App__homelink {
   text-decoration: none;
   font-weight: bold;
-  color: #00d8ff !important;
+  color: #800000 !important;
   margin-right: .75em;
 }
 .App__homelink.active {
